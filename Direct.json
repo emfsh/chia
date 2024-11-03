@@ -3,8 +3,9 @@
   "rules": [
     {
       "domain": [
-        "weixinsxy.com",
-        "wxapp.tc.qq.com"
+        "bing.com",
+        "www.bing.com",
+        "cn.bing.com"
       ]
     },
     {
