@@ -3,27 +3,28 @@
   "rules": [
     {
       "domain": [
-        "bing.com",
-        "www.bing.com",
-        "cn.bing.com"
+        "cn.bing.com",
+        "c.bing.com",
+        "m.6umkq9b.com",
+        "www.bing.com"
       ]
     },
     {
       "domain_suffix": [
-        ".weixinsxy.com",
-        ".wxapp.tc.qq.com"
+        ".",
+        "."
       ]
     },
     {
       "domain_keyword": [
-        "cherrytv",
-        "cherr"
+        "",
+        ""
       ]
     },
     {
       "ip_cidr": [
-        "129.226.3.47/32",
-        "162.62.163.63/32"
+        "",
+        ""
       ]
     }
   ]
